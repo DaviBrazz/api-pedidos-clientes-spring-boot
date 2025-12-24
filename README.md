@@ -1,7 +1,7 @@
 
 # Sobre o projeto
 
-Projeto de web services desenvolvido com Spring Boot, que expõe endpoints para gerenciar entidades como Produto, Usuário, Pedido e Categoria, utilizando um banco de dados relacional H2 para armazenar e associar os dados entre as classes.
+Projeto de web services desenvolvido com Spring Boot, que expõe endpoints RESTful para gerenciar entidades como Produto, Usuário, Pedido e Categoria. O projeto utiliza o banco de dados relacional H2 para persistência e mapeamento de relacionamentos entre entidades. Além disso, integra práticas de testes automatizados com JUnit e Mockito, gerenciamento de dependências e build com Maven, e é configurado para integração contínua (CI), permitindo validar automaticamente a funcionalidade da aplicação e a integridade das APIs.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/DaviBrazz/assets/blob/main/images/WebServices-java-springboot/modelo-conceitual-spring.png)
