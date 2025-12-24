@@ -20,11 +20,11 @@ Orders id 2
 - Spring Boot
 - JPA / Hibernate
 - Maven
-- DB H2
+- Banco de Dados H2
 
 # Como executar o projeto
 
-## Back end
+## Backend
 Pré-requisitos: Java 17 ou superior
 
 ```bash
@@ -40,4 +40,4 @@ mvn spring-boot:run
 
 # Autor
 
-Davi Moreira Braz de Lima
+Davi Braz
