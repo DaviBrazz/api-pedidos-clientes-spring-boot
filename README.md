@@ -67,6 +67,5 @@ cd api-pedidos-clientes-springBoot
 
 # executar o projeto
 mvn spring-boot:run
-
-
+```
 ## Autor: `Davi Braz`
