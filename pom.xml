@@ -13,8 +13,8 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>com.example</groupId>
-	<artifactId>curso</artifactId>
+	<groupId>api.pedidos</groupId>
+	<artifactId>clientes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>curso</name>
 	<description>Demo project for Spring Boot</description>
